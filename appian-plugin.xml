@@ -1,0 +1,13 @@
+<appian-plugin name="Enter Name" key="com.appiancorp.first.second">
+
+  <plugin-info>
+    <description>FTP Tools</description>
+    <vendor name="Appian Corporation" url="http://www.appian.com" />
+    <version>1.0.0</version>
+    <application-version min="7.0.0" />
+  </plugin-info>
+  
+	 <smart-service name="Enter Name" key="enterkey"
+    class="com.appiancorp.first.second.ClassName"/>
+	
+</appian-plugin>
